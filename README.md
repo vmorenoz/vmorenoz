@@ -63,42 +63,10 @@ Soy un Ingeniero de Sistemas, apasionado por el diseño y desarrollo de software
 
 ## 📫 Contacto
 
-<style>
-    .contact-button {
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
-        background-color: #f0f0f0;
-        color: #333;
-        text-decoration: none;
-        padding: 5px 10px;
-        margin: 5px;
-        border-radius: 5px;
-        font-family: Arial, sans-serif;
-        font-size: 14px;
-    }
-    .contact-button:hover {
-        background-color: #e0e0e0;
-    }
-    .contact-button img {
-        margin-right: 5px;
-        filter: grayscale(100%);
-    }
-</style>
+[🌐 vmorenoz.dev](https://vmorenoz.dev)
 
-<a href="https://www.facebook.com/vicodev.pe" class="contact-button">
-    <img src="https://img.icons8.com/fluent/20/000000/facebook-new.png" alt="Facebook Icon">
-    Facebook
-</a>
-<a href="https://www.linkedin.com/in/vicodev/" class="contact-button">
-    <img src="https://img.icons8.com/fluent/20/000000/linkedin.png" alt="LinkedIn Icon">
-    LinkedIn
-</a>
-<a href="https://www.instagram.com/vicodev" class="contact-button">
-    <img src="https://img.icons8.com/fluent/20/000000/instagram-new.png" alt="Instagram Icon">
-    Instagram
-</a>
-<a href="https://vmorenoz.dev" class="contact-button">
-    <img src="https://img.icons8.com/fluent/20/000000/domain.png" alt="Website Icon">
-    vmorenoz.dev
-</a>
+[📘 Facebook](https://www.facebook.com/vicodev.pe)
+
+[🔗 LinkedIn](https://www.linkedin.com/in/vicodev/)
+
+[📸 Instagram](https://www.instagram.com/vicodev)

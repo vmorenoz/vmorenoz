@@ -7,6 +7,7 @@ Soy un Ingeniero de Sistemas, apasionado por el diseño y desarrollo de software
 ## 🚀 Proyectos recientes
 
 - **Quotizer**: Un cotizador web. [Ver más](https://quotizer.vmorenoz.dev)
+- **Tetris Rush**: Una versión del juego Tetris usando javascript. [Ver más](https://tetris.vmorenoz.dev)
 - **Redi**: Proximamente.
 
 ## 💼 Experiencia
@@ -59,7 +60,7 @@ Soy un Ingeniero de Sistemas, apasionado por el diseño y desarrollo de software
 ![Power BI](https://img.shields.io/badge/-Power%20BI-%23F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 ### Facturación Electrónica
-![Greenter](https://img.shields.io/badge/-Greenter-%234CA143?style=flat-square) <!-- No official Greenter badge, used a generic color -->
+![Greenter](https://img.shields.io/badge/-Greenter-%234CA143?style=flat-square)
 
 ## 📫 Contacto
 

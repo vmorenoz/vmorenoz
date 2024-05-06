@@ -6,6 +6,7 @@ Soy un Ingeniero de Sistemas, apasionado por el diseño y desarrollo de software
 
 ## 🚀 Proyectos recientes
 
+- **Angular Reactor**: Un manejador de estados basado en Signals para Angular. [Ver más](https://www.npmjs.com/package/ng-reactor)
 - **Quotizer**: Un cotizador web. [Ver más](https://quotizer.vmorenoz.dev)
 - **Lumos**: Una app para subir, llenar y descargar plantillas DOCX en formato PDF. [Ver más](https://lumos.vmorenoz.dev)
 - **Tetris Rush**: Una versión del juego Tetris usando javascript. [Ver más](https://tetris.vmorenoz.dev)

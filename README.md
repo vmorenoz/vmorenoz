@@ -2,15 +2,15 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy un Ingeniero de Sistemas, apasionado por el diseño y desarrollo de software. Con experiencia en una amplia gama de tecnologías, me especializo en el desarrollo de aplicaciones web y móviles, siempre buscando innovar y crear soluciones eficientes y efectivas.
+Desarrollador senior especializado en frontend con una sólida experiencia en Angular y un profundo conocimiento de los stacks MEAN, MERN y MEVN. He trabajado en el sector bancario para BBVA e Interbank, liderando proyectos innovadores que generan un alto impacto. Mi expertise incluye el uso de tecnologías modernas como Google Cloud Platform, Supabase, Vercel, Firebase, e integraciones con OpenAI y Gemini AI, lo que me permite crear soluciones escalables y disruptivas. Mi pasión es diseñar aplicaciones que transformen procesos y aporten valor real a las empresas.
 
 ## 🚀 Proyectos recientes
 
 - **Angular Reactor**: Un manejador de estados basado en Signals para Angular. [Ver más](https://www.npmjs.com/package/ng-reactor)
-- **Quotizer**: Un cotizador web. [Ver más](https://quotizer.vmorenoz.dev)
-- **Lumos**: Una app para subir, llenar y descargar plantillas DOCX en formato PDF. [Ver más](https://lumos.vmorenoz.dev)
+- **Quotizer**: Un cotizador web con Vue y Angular
+- **Lumos**: Una app para subir, llenar y descargar plantillas DOCX en formato PDF con Laravel.
 - **Tetris Rush**: Una versión del juego Tetris usando javascript. [Ver más](https://tetris.vmorenoz.dev)
-- **Redi**: Proximamente.
+- **Redi**: Proximamente un POS con Angular y Supabase.
 
 ## 💼 Experiencia
 

@@ -16,6 +16,8 @@ Desarrollador senior especializado en frontend con una sólida experiencia en An
 
 - **Software associate solutions development** en **BBVA Perú** - Dic. 2023 hasta el Presente
 - **Frontend Senior Developer at Angular** en **Interbank by NTT Data** - Jun. 2022 hasta Dic. 2023
+- **Full Stack Developer** en **Clínica Carita Feliz** - Feb. 2021 hasta May. 2022
+- **Full Stack Developer** en **Usqay** - Mar. 2019 hasta Dic. 2020
 
 ## 📊 Stats de GitHub
 
